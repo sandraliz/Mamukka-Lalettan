@@ -1,0 +1,4 @@
+1.Tensorflow - 2.5.0
+2.Keras - 2.4.3
+3.Flask - 1.0.2
+4.NumPy - 1.19.5
