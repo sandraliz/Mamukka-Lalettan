@@ -56,18 +56,19 @@ python3 app.py
 Note: This is a binary classification, so we can't get more than two result!
 
 #File structure
+
 | static
 
-  | cast.h5
+    | cast.h5
   
 | templates  Contains all the html files
 
-   | index.html
+     | index.html
    
-   | prediction.html
+     | prediction.html
    
-   | style.css
-    .....
+     | style.css
+       .....
     
 | Code.ipynb  Contains complete ML code for model training, testing and prediction
 
