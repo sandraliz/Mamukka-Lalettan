@@ -2,16 +2,17 @@
 This project can be used to recognize and predict whether the input image is Malayalam actor Mohanlal or Mammootty using Machine Learning. In this project we have built a CNN in Keras with Python. A web app can classify the given image as Mohanlal or Mammootty. 
 
 #Team members
-1.	Sania Maria Sabu
-2.	Sandra Elizabeth Sabu
-3.	Kaveri Menoki
+1.	Sania Maria Sabu (https://wwww.github.com/saniamaria/)
+2.	Sandra Elizabeth Sabu (https://www.github.com/sandraliz/)
+3.	Kaveri Menoki (https://www.github.com/km-r/)
 
 #Team Id
 
 BFH/recA6bskyiUmQgbxA/2021
 
 #Link to product walkthrough
-link to video
+
+https://drive.google.com/file/d/1RXP-uyD58SzpjHvxCyt7NqutqKPQzZcm/view?usp=sharing
 
 #Work Flow of the Product
 1.	A CNN algorithm is created using tensorflow and keras libraries.
