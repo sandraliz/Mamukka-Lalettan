@@ -7,6 +7,7 @@ This project can be used to recognize and predict whether the input image is Mal
 3.	Kaveri Menoki
 
 #Team Id
+
 BFH/recA6bskyiUmQgbxA/2021
 
 #Link to product walkthrough
@@ -45,10 +46,13 @@ python3 app.py
 3.	Open the terminal, select the directory and run the program.
 4.	When it starts to run, the local IP will be present in the terminal. Search and open the IP in the browser and the webapp will start working from there.
 5.	While starting the web app, you can see the file selection option. Click there, select and submit the image you want to predict.
+
 ![image](https://user-images.githubusercontent.com/45328455/119489670-8a111580-bd79-11eb-9dcd-692be48e4111.png)
+
 6.	After submitting the image is processed and it predicts whether it is the image of Mammootty or Mohanlal.
 ![image](https://user-images.githubusercontent.com/45328455/119489754-a4e38a00-bd79-11eb-90ee-405feeddbd85.png)
 ![image](https://user-images.githubusercontent.com/45328455/119489772-ab720180-bd79-11eb-9ebe-7d1fec9cb0f2.png)
+
 Note: This is a binary classification, so we can't get more than two result!
 
 #File structure
