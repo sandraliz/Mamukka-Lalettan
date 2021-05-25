@@ -6,15 +6,15 @@ This project can be used to recognize and predict whether the input image is Mal
 2.	Sandra Elizabeth Sabu (https://www.github.com/sandraliz/)
 3.	Kaveri Menoki (https://www.github.com/km-r/)
 
-#Team Id
+# Team Id
 
 BFH/recA6bskyiUmQgbxA/2021
 
-#Link to product walkthrough
+# Link to product walkthrough
 
 https://drive.google.com/file/d/1RXP-uyD58SzpjHvxCyt7NqutqKPQzZcm/view?usp=sharing
 
-#Work Flow of the Product
+# Work Flow of the Product
 1.	A CNN algorithm is created using tensorflow and keras libraries.
 2.	The training and testing datasets are created using the images of Mohanlal and Mammootty from Kaggle dataset.
 3.	A trained model created using the dataset is saved as '.h5' file format.
@@ -23,13 +23,13 @@ https://drive.google.com/file/d/1RXP-uyD58SzpjHvxCyt7NqutqKPQzZcm/view?usp=shari
 6.	User can upload one image at a time to the web app, it is then saved into the folder named 'image'.
 7.	Image is processed in the trained ML model and it will return the prediction as output whether the image is of Mohanlal or Mammootty. 
 
-#How to Configure
+# How to Configure
 Download the repository as zip. For downloading trained model click here.
 Model Summary
 ![image](https://user-images.githubusercontent.com/45328455/119489560-71086480-bd79-11eb-9747-9106c43bc045.png)
 
  
-#Installation
+# Installation
 
 •	Fork & Clone the repo
 
@@ -46,10 +46,10 @@ Model Summary
 •	Copy the localhost url (usually localhost:5000/) and paste in browser
 
 
-#The databases in the system
+# The databases in the system
    Static- This store the images send by users for prediction
    
-#How to Run
+# How to Run
 1.	The downloaded file contains a app.py python file, also download the trained model from here.
 2.	Open the python file and give the proper directory for importing the trained model. The HTML and CSS file (for UI) is present in the template folder.
 3.	Open the terminal, select the directory and run the program.
@@ -64,7 +64,7 @@ Model Summary
 
 Note: This is a binary classification, so we can't get more than two result!
 
-#File structure
+# File structure
 
 | static
 
