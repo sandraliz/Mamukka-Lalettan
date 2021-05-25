@@ -73,10 +73,7 @@ Note: This is a binary classification, so we can't get more than two result!
 | templates  Contains all the html files
 
      | index.html
-   
-     | prediction.html
-   
-     | style.css
+     
        .....
     
 | Code.ipynb  Contains complete ML code for model training, testing and prediction
