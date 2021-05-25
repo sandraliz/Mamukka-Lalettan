@@ -6,7 +6,7 @@ This project can be used to recognize and predict whether the input image is Mal
 2.	Sandra Elizabeth Sabu (https://www.github.com/sandraliz/)
 3.	Kaveri Menoki (https://www.github.com/km-r/)
 
-# Team Id
+# Team ID
 
 BFH/recA6bskyiUmQgbxA/2021
 
