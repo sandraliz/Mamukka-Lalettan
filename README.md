@@ -1,7 +1,7 @@
 # M&M Image Classifier
 This project can be used to recognize and predict whether the input image is Malayalam actor Mohanlal or Mammootty using Machine Learning. In this project we have built a CNN in Keras with Python. A web app can classify the given image as Mohanlal or Mammootty. 
 
-#Team members
+# Team members
 1.	Sania Maria Sabu (https://wwww.github.com/saniamaria/)
 2.	Sandra Elizabeth Sabu (https://www.github.com/sandraliz/)
 3.	Kaveri Menoki (https://www.github.com/km-r/)
