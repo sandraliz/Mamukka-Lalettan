@@ -34,7 +34,7 @@ def home():
     y = round(prediction[0,1], 2)
     preds = np.array([x,y])
     COUNT += 1
-    return render_template('prediction.html', data=preds)
+    return render_template('index.html', data=preds)
 
 
 @app.route('/load_img')
