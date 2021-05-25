@@ -37,11 +37,11 @@ Model Summary
        
 •	Install all requirements
 
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
 •	Run :
 
-python3 app.py
+    python3 app.py
 
 •	Copy the localhost url (usually localhost:5000/) and paste in browser
 
