@@ -20,7 +20,7 @@ https://drive.google.com/file/d/1RXP-uyD58SzpjHvxCyt7NqutqKPQzZcm/view?usp=shari
 3.	A trained model created using the dataset is saved as '.h5' file format.
 4.	A web app is created using flask API in backend and in the front-end, for UI, using HTML5, CSS and Javascript.
 5.	The trained model is loaded in the web app backend.
-6.	User can upload one image at a time to the web app, it is then saved into the folder named 'static'.
+6.	User can upload one image at a time to the web app, it is then saved into the folder named 'image'.
 7.	Image is processed in the trained ML model and it will return the prediction as output whether the image is of Mohanlal or Mammootty. 
 
 #How to Configure
@@ -70,11 +70,11 @@ Note: This is a binary classification, so we can't get more than two result!
 
     | cast.h5
   
-| templates  Contains all the html files
+| templates  Contains all the html and cssfiles
 
      | index.html
      
-       .....
+     | m&m.css
     
 | Code.ipynb  Contains complete ML code for model training, testing and prediction
 
