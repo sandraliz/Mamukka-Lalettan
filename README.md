@@ -57,16 +57,24 @@ Note: This is a binary classification, so we can't get more than two result!
 
 #File structure
 | static
+
   | cast.h5
+  
 | templates  Contains all the html files
 
    | index.html
+   
    | prediction.html
+   
    | style.css
     .....
+    
 | Code.ipynb  Contains complete ML code for model training, testing and prediction
+
 | README.md
+
 | app.py : Contains all the python code    
+
 | requirements.txt : contains the list of all dependencies to be installed
 
 
