@@ -30,13 +30,21 @@ Model Summary
 
  
 #Installation
+
 •	Fork & Clone the repo
+
        git clone https://github.com/[yourname]/BFH.git
+       
 •	Install all requirements
+
 pip install -r requirements.txt
+
 •	Run :
+
 python3 app.py
+
 •	Copy the localhost url (usually localhost:5000/) and paste in browser
+
 
 #The databases in the system
    Static- This store the images send by users for prediction
